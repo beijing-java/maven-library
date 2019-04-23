@@ -1,3 +1,5 @@
+![](https://github.com/beijing-java/maven-library/blob/master/image/logo.png)
+
 ### github仓库
 + 创建本地maven仓库
   
